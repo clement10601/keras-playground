@@ -4,6 +4,7 @@ Graph/
 __pycache__/
 *.py[cod]
 *$py.class
+*.local
 
 # C extensions
 *.so
